@@ -1,0 +1,17 @@
+body{background:rgb(38, 162, 175);}
+#mydiv{height:100;}
+
+h1{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;color: #17ca68;}
+p{font-family: Georgia, 'Times New Roman', Times, serif;color: coral;font-size: larger;direction: rtl;}
+iframe{
+    border: 10px solid;
+border-bottom-color: chocolate;
+border-top-color: #8ed915;
+border-right-color:rgb(40, 186, 142) ;
+border-left-color:rgb(234, 47, 255) ;
+border-style: groove;
+}
+img{
+    border: 10px solid;
+    border-style:dashed;
+}
